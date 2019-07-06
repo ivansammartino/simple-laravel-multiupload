@@ -34,7 +34,7 @@ $(function(){
                 '/cors/result.html?%s'
             )
         );
-
+		
         // Load existing files:
         $('#fileupload').addClass('fileupload-processing');
         $.ajax({
